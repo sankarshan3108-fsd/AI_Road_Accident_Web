@@ -1,5 +1,18 @@
 # Road Risk Simulator — AI-Based Road Accident Risk Simulation (Web)
 
+
+## 🌐 Live Demo
+
+**Try the Road Accident Risk Simulator here:**
+
+🔗 [AI Road Accident Prediction Simulation](https://ai-road-accident-simulation.sankarshan3108.workers.dev)
+
+Explore realistic road scenarios, change weather and driving conditions, simulate traffic, and observe accident-risk assessments.
+
+## 🚀 Project Overview
+
+An interactive, browser-based road accident risk simulation designed to demonstrate how environmental conditions, traffic density, and driving factors can influence road safety.
+
 A browser version of the **AI_Road_Accident_Simulation** university micro-project (Python/Pygame).
 It shows an animated, perspective view of an **illustrative Coimbatore arterial road** with left-hand
 traffic, live weather and lighting effects, a transparent **educational accident-risk model**, and an
